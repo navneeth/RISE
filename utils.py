@@ -1,4 +1,4 @@
-impo:wqrt numpy as np
+import numpy as np
 from matplotlib import pyplot as plt
 import torch
 from torch.utils.data.sampler import Sampler
